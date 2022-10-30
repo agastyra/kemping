@@ -1,2 +1,0 @@
-# kemping
-Kemping repository
